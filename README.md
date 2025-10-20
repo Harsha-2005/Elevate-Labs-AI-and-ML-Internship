@@ -51,3 +51,4 @@ Outliers are extreme values that can skew your model's learning. You learned a r
 ->IQR Method:** You used the **Interquartile Range (IQR)** to mathematically define and remove outliers. This method calculates the range between the 25th (Q1) and 75th (Q3) percentiles and removes any data point that falls too far below Q1 or above Q3. This made your dataset more robust and reliable.
 
 Great job today! You've mastered the foundational steps of preparing data for any machine learning project.
+link of dataset : https://www.kaggle.com/datasets/yasserh/titanic-dataset
